@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity {
         } else {
             super.onBackPressed();
         }
-    }public void sampath(){
+    }public void aditya(){
 
     }
 }
